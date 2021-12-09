@@ -26,4 +26,6 @@ When brought back online:
 
   * Test your application before you commit to ensure functionality at every step in the development process
 
-  Deployed site: 
+  Demo: [ProgressiveBudgetDemo](./public/images/progressiveBudgetdemo.gif)
+
+  Deployed site: https://ck-progressive-budget.herokuapp.com/
